@@ -1,0 +1,41 @@
+body{
+    background-color:#D09CFA!important;
+}
+input{
+    border: 2px solid !important;
+    
+}
+a{
+    text-decoration: none !important;
+    color: black !important;
+    
+}
+.col-sm-8{
+    height: 100vh;
+    /* border: 2px solid; */
+    display: flex;
+    align-items: center;
+
+
+}
+.formhead{
+    width: 80%;
+}
+button{
+    background-color:#A555EC !important;
+}
+@media only screen and (max-width:390px){
+    .formhead{
+        width: 100%;
+        background-color: black;
+    }
+}
+/* signup css */
+.form-container{
+    position: absolute;
+    top:15vh;
+
+    background: #fff;
+    padding: 30px;
+    border-radius: 0px 0px 10px 0px #000;
+}
