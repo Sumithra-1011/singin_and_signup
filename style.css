@@ -1,0 +1,36 @@
+*{
+    font-size: 1.2rem;
+}
+.navhead{
+    width: 100%;
+
+}
+.navend{
+    width: 30%;
+}
+.btn1{
+    padding: 5px;
+    text-decoration: none;
+    border-radius:40px;
+    width:150px;
+    text-align: center;
+    /* text-align: center; */
+
+} 
+li{
+    width: 100px;
+    text-align: center;
+}
+li:hover{
+    border-radius:10px;
+    /* width:100px; */
+    /* background-color:rgb(160, 163, 214); */
+    background-color: #D09CFA;
+}
+.btn1:hover{
+    background-color: #D09CFA;
+    
+}
+.navtop{
+    background-color: #A555EC !important;
+}
